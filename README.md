@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Maps of Immigrants
 
-You can use the [editor on GitHub](https://github.com/shjdjps/maps-of-immigration/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+by Deborah Shin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As I previously critiqued, the “World Migration Map,” is one that is enticing and interactive; it grasps the viewers' attention to the movements of immigrants as well as the hotspots of many people in and or out. It puts things into perspective when one understands that a single moving yellow dot represents 1,000 people moving on the earth. There is so much always happening on our planet. Migration is on a global scale and this map helps people understand the great amount of movement happening constantly that people are generally unaware of. Being able to track the constant migration of millions of people is important for many reasons including understanding the impact of certain global events like wars, comprehending the rates of global and population growth, as well as a better perception of international and even national coordination.
 
-### Markdown
+TODO: Put visualization here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Social justice comes along with migrants and their movement. Because global scale migration affects not just society, but also the economy and more, there are problems that may be emphasized by the immigration rates. This may cause tension between natives and the migrants which can lead to discrimination and racism. According to “Missing Migrants,” 978 immigrants died from violence before they could have reached their destination. Although we are not sure how many of the 978 deaths were related to racial discrimination, we can assume that at least a few hundred could have been racially motivated deaths. In order to intervene, I think that there needs to be a change in humankind in general to try and sympathize with those seeking asylum in other countries to provide a better life for themselves. Although this is the ideal, it is basically impossible to convince seven billion people to feel and think certain things about different issues. 
 
-```markdown
-Syntax highlighted code block
+Another social justice issue that affects immigrants is climate change. “Missing Migrants” reports that thousands of migrants die due to lack of necessary resources in harsh environmental conditions. Migrants also may choose to leave their home country due to the negative impacts of climate change like flooding, fires, and so much more. Migrants are moving out of their homes in search of consistency in resources which can be hard to find in areas with droughts, floods, as well as fires. In order to intervene, there must be more readily available resources for migrants to utilize when traveling. Humans must also try to limit carbon emissions and try to combat climate change. 
 
-# Header 1
-## Header 2
-### Header 3
+When looking at “Migration Data Portal,” we see that there are currently 280.6 million people globally who are migrants as of the year 2020. The number has only increased exponentially for the past two decades. Many people choose to migrate because of social justice issues like unequal rights, lack of safety in their own homes, employment, security, and much more. Although many issues to migrate do stem for economic as well as physical reasons, socially, there are many problems that force people to leave their nation. There is no security for many of the migrants while traveling which causes much death.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shjdjps/maps-of-immigration/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+An effective story map on the topic of global migration could be areas of strong changes in the climate which force people from their homes. I think a really huge social and environmental movement right now is the fight against climate change, thus, creating a map where it is easier to see where climate change displaces people could be helpful to better understand the seriousness of how it affects people. I could look for regions with greatly exponential changes in temperature, floods, droughts, fires, and more. By seeing the patterns of migration in the areas affected by climate change, I would be able to create a map that lets people visualize and know where certain issues of climate change are happening across the globe. I could also use a key to show the different countries of the world and their carbon footprint by color coding them. By showing the movement and patterns of people seeking asylum from possibly losing their homes, I would be able to illustrate the huge impact climate change has on people globally. I do not think I would be able to create an interactive moving map, so I will create a map that utilizes arrows that are either bolder and thicker to indicate more people, or thinner to symbolize less movement of people. This map can be utilized to help us prepare for the future and send help to areas that may need it. We will be able to see that certain areas of the world are starting to flood more than others and may be starting to be consumed by the ocean. Over time, the map can show the intensity of change over the years. I would like this map to be bold and informative like the “World Migration Map” that utilizes a black background with very bright colors. I want this map to be one that sticks in people's mind and lets them know of certain social justice issues that need to spark change. 
